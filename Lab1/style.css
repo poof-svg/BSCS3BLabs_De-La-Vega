@@ -1,8 +1,17 @@
 h1{
-    color: #5f962b;
+    color: #b36090;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align:center;
     
+}
+hr{
+    border: 1px solid #b36090;
+    width: 50%;
+    margin-left:auto;
+    margin-right:auto;
+}
+body {
+    background-color: hsl(199, 21%, 80%);
 }
 img{
     display:block;
